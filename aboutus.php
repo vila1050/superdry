@@ -31,12 +31,12 @@
 	      <a class="navbar-brand" href="#">Superdry.</a>
 	    </div>
 	    <ul class="nav navbar-nav">
-	      <li><a href="/Users/vila1050/Desktop/Superdry/index.php">Home</a></li>
+	      <li><a href="index.php">Home</a></li>
 	      <li>
-	      	<a href="/Users/vila1050/Desktop/Superdry/aboutus.php">About Us</a>
+	      	<a href="aboutus.php">About Us</a>
 	      </li>
 	      <li>
-	      	<a href="/Users/vila1050/Desktop/Superdry/shop.php">Shop</a>
+	      	<a href="shop.php">Shop</a>
 	      </li>
 	      <li>
 	      	<img id="logo" src="logo2.png">

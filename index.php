@@ -32,12 +32,12 @@
 	      <a class="navbar-brand" href="#">Superdry.</a>
 	    </div>
 	    <ul class="nav navbar-nav">
-	      <li><a href="/Users/vila1050/Desktop/Superdry/index.php">Home</a></li>
+	      <li><a href="index.php">Home</a></li>
 	      <li>
-	      	<a href="/Users/vila1050/Desktop/Superdry/aboutus.php">About Us</a>
+	      	<a href="aboutus.php">About Us</a>
 	      </li>
 	      <li>
-	      	<a href="/Users/vila1050/Desktop/Superdry/shop.php">Shop</a>
+	      	<a href="shop.php">Shop</a>
 	      </li>
 	      <li>
 	      	<img id="logo" src="logo2.png">
@@ -79,8 +79,8 @@
 					</p>
 				
 					<div class="banner-button-container button-list">
-		            	<a class="button spaced-2v button-1" style="color: #191919; background-color: transparent; border: 1px solid #191919; width: 10em;" data-mobile-style="color: #191919; background-color: transparent; border: 1px solid #191919; width: 10em; " href="/Users/vila1050/Desktop/Superdry/shop.html">SHOP MENS</a>
-		                <a class="button spaced-2v button-2" style="color: #191919; background-color: transparent; border: 1px solid #191919; width: 10em;" data-mobile-style="color: #191919; background-color: transparent; border: 1px solid #191919; width: 10em; " href="/Users/vila1050/Desktop/Superdry/shop.html">SHOP WOMENS</a>
+		            	<a class="button spaced-2v button-1" style="color: #191919; background-color: transparent; border: 1px solid #191919; width: 10em;" data-mobile-style="color: #191919; background-color: transparent; border: 1px solid #191919; width: 10em; " href="shop.html">SHOP MENS</a>
+		                <a class="button spaced-2v button-2" style="color: #191919; background-color: transparent; border: 1px solid #191919; width: 10em;" data-mobile-style="color: #191919; background-color: transparent; border: 1px solid #191919; width: 10em; " href="shop.html">SHOP WOMENS</a>
 		            </div>
 	        	</div>
 	        </div>
@@ -98,8 +98,8 @@
 						The best multi-tasker, the ideal extra layer, show your wardrobe some love and stock up on your staples.
 					</p>
 				    <div class="banner-button-container button-list">
-		            	<a class="button spaced-2v button-1" style="color: #191919; background-color: transparent; border: 1px solid #191919; width: 10em;" data-mobile-style="color: #191919; background-color: transparent; border: 1px solid #191919; width: 10em; " href="/Users/vila1050/Desktop/Superdry/shop.html">SHOP MENS</a>
-		                <a class="button spaced-2v button-2" style="color: #191919; background-color: transparent; border: 1px solid #191919; width: 10em;" data-mobile-style="color: #191919; background-color: transparent; border: 1px solid #191919; width: 10em; " href="/Users/vila1050/Desktop/Superdry/shop.html">SHOP WOMENS</a>
+		            	<a class="button spaced-2v button-1" style="color: #191919; background-color: transparent; border: 1px solid #191919; width: 10em;" data-mobile-style="color: #191919; background-color: transparent; border: 1px solid #191919; width: 10em; " href="shop.html">SHOP MENS</a>
+		                <a class="button spaced-2v button-2" style="color: #191919; background-color: transparent; border: 1px solid #191919; width: 10em;" data-mobile-style="color: #191919; background-color: transparent; border: 1px solid #191919; width: 10em; " href="shop.html">SHOP WOMENS</a>
 		            </div>
 	        	</div>
 	        </div>
@@ -124,8 +124,8 @@
 						Keep warm and comfortable as cold autumnal days set in with our collection of knits and jumpers in a variety of stylish fits.
 					</p>
 				    <div class="banner-button-container button-list">
-		            	<a class="button spaced-2v button-1" style="color: #191919; background-color: transparent; border: 1px solid #191919; width: 10em;" data-mobile-style="color: #191919; background-color: transparent; border: 1px solid #191919; width: 10em; " href="/Users/vila1050/Desktop/Superdry/shop.html">SHOP MENS</a>
-		                <a class="button spaced-2v button-2" style="color: #191919; background-color: transparent; border: 1px solid #191919; width: 10em;" data-mobile-style="color: #191919; background-color: transparent; border: 1px solid #191919; width: 10em; " href="/Users/vila1050/Desktop/Superdry/shop.html">SHOP WOMENS</a>
+		            	<a class="button spaced-2v button-1" style="color: #191919; background-color: transparent; border: 1px solid #191919; width: 10em;" data-mobile-style="color: #191919; background-color: transparent; border: 1px solid #191919; width: 10em; " href="shop.html">SHOP MENS</a>
+		                <a class="button spaced-2v button-2" style="color: #191919; background-color: transparent; border: 1px solid #191919; width: 10em;" data-mobile-style="color: #191919; background-color: transparent; border: 1px solid #191919; width: 10em; " href="shop.html">SHOP WOMENS</a>
 		            </div>
 	        	</div>
 	        </div>
@@ -139,7 +139,7 @@
 				<div class="img-text">
 					<h6>
 						JACKETS <br>
-						<a href="/Users/vila1050/Desktop/Superdry/shop.html">SHOP NOW</a>
+						<a href="shop.html">SHOP NOW</a>
 					</h6>
 				</div>
 			</div>
@@ -150,7 +150,7 @@
 				<div class="img-text">
 					<h6>
 						SWEATERS <br>
-						<a href="/Users/vila1050/Desktop/Superdry/shop.html">SHOP NOW</a>
+						<a href="shop.html">SHOP NOW</a>
 					</h6>
 				</div>
 			</div>
@@ -161,7 +161,7 @@
 				<div class="img-text">
 					<h6>
 						HOODIES <br>
-						<a href="/Users/vila1050/Desktop/Superdry/shop.html">SHOP NOW</a>
+						<a href="shop.html">SHOP NOW</a>
 					</h6>
 				</div>
 			</div>
@@ -172,7 +172,7 @@
 				<div class="img-text">
 					<h6>
 						SHIRTS <br>
-						<a href="/Users/vila1050/Desktop/Superdry/shop.html">SHOP NOW</a>
+						<a href="shop.html">SHOP NOW</a>
 					</h6>
 				</div>
 			</div>
@@ -183,7 +183,7 @@
 				<div class="img-text">
 					<h6>
 						T-SHIRTS <br>
-						<a href="/Users/vila1050/Desktop/Superdry/shop.html">SHOP NOW</a>
+						<a href="shop.html">SHOP NOW</a>
 					</h6>
 				</div>
 			</div>
@@ -194,7 +194,7 @@
 				<div class="img-text">
 					<h6>
 						DRESSES <br>
-						<a href="/Users/vila1050/Desktop/Superdry/shop.html">SHOP NOW</a>
+						<a href="shop.html">SHOP NOW</a>
 					</h6>
 				</div>
 			</div>
@@ -205,7 +205,7 @@
 				<div class="img-text">
 					<h6>
 						JACKETS & COATS  <br>
-						<a href="/Users/vila1050/Desktop/Superdry/shop.html">SHOP NOW</a>
+						<a href="shop.html">SHOP NOW</a>
 					</h6>
 				</div>
 			</div>
@@ -216,7 +216,7 @@
 				<div class="img-text">
 					<h6>
 						SWEATERS <br>
-						<a href="/Users/vila1050/Desktop/Superdry/shop.html">SHOP NOW</a>
+						<a href="shop.html">SHOP NOW</a>
 					</h6>
 				</div>
 			</div>
