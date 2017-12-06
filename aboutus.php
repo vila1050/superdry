@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>index.html</title>
+	<title>index.php</title>
 	<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 	<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
@@ -31,12 +31,12 @@
 	      <a class="navbar-brand" href="#">Superdry.</a>
 	    </div>
 	    <ul class="nav navbar-nav">
-	      <li><a href="/Users/vila1050/Desktop/Superdry/index.html">Home</a></li>
+	      <li><a href="/Users/vila1050/Desktop/Superdry/index.php">Home</a></li>
 	      <li>
-	      	<a href="/Users/vila1050/Desktop/Superdry/aboutus.html">About Us</a>
+	      	<a href="/Users/vila1050/Desktop/Superdry/aboutus.php">About Us</a>
 	      </li>
 	      <li>
-	      	<a href="/Users/vila1050/Desktop/Superdry/shop.html">Shop</a>
+	      	<a href="/Users/vila1050/Desktop/Superdry/shop.php">Shop</a>
 	      </li>
 	      <li>
 	      	<img id="logo" src="logo2.png">
