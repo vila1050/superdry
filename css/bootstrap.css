@@ -1,0 +1,292 @@
+
+#logo {
+
+}
+
+#h5 {
+	margin-left: 0px;
+	margin-top: 0px;
+	background-color: #333333;
+	color: white;
+	width: 100%;
+
+}
+
+#topheader {
+	color: white;
+	/*z-index: 999;*/
+	background-color:#EC5B2A;
+	font-size: 20px;
+	margin-top:7.5%;
+	padding:15px;
+	justify-content: center;
+	align-items: center;
+	display: flex;
+
+}
+
+#button button{
+	margin-top: 300px;
+	color: #FFFFFF;
+	background-color: #EC5B2A;
+	width: 175px;
+	height: 50px;
+    font-size: 16px;
+}
+
+
+#navbar-default {
+	background-color: black;
+}
+
+#navbar-default a{
+	color: white;
+}
+
+#logo {
+	width: 249px;
+	height: 85px;
+
+}
+
+#navbar-default img{
+	margin-left:25rem;
+
+}
+
+#background1 {
+	background-image: url("../background.png");
+	width: 100%;
+	height: 100vh;
+	background-repeat: no-repeat;
+	background-size: 100%;
+	margin-top:-1%;
+	justify-content: center;
+	align-items: center;
+	display: flex;
+
+}
+
+#img1 img{
+	width: 691px;
+	height: 630px;
+	margin-left: 25px;
+	margin-bottom: 50px;
+}
+
+#dem1 {
+	justify-content: center;
+	align-items: center;
+	display: flex;
+	min-height: 75vh;
+	line-height: 175%;
+}
+#info1{
+	padding:15px;
+}
+#info1 p{
+	margin: 2.5rem 0  2.5rem 0;
+}
+#dem1 .button{
+	margin-top: 15%;
+	padding:15px;
+}
+
+#dem1 #content{
+	max-width: 375px;
+}
+
+#types1 {
+	font-weight: bold;
+}
+
+#img2 img{
+	width: 691px;
+	height: 630px;
+	margin-left: -25px;
+	margin-bottom: 50px;
+}
+
+#dem2 {
+	justify-content: center;
+	align-items: center;
+	display: flex;
+	min-height: 75vh;
+	line-height: 175%;
+}
+#info2{
+	padding:15px;
+}
+#info2 p{
+	margin: 2.5rem 0  2.5rem 0;
+}
+#dem2 .button{
+	margin-top: 15%;
+	padding:15px;
+}
+
+#dem2 #content{
+	max-width: 375px;
+}
+
+#types2 {
+	font-weight: bold;
+}
+
+#img3 img{
+	width: 691px;
+	height: 630px;
+	margin-left: 25px;
+	margin-bottom: 65px;
+}
+
+#dem3 {
+	justify-content: center;
+	align-items: center;
+	display: flex;
+	min-height: 75vh;
+	line-height: 175%;
+}
+#info3{
+	padding:15px;
+}
+#info3 p{
+	margin: 2.5rem 0  2.5rem 0;
+}
+#dem3 .button{
+	margin-top: 15%;
+	padding:15px;
+}
+
+#dem3 #content{
+	max-width: 375px;
+}
+
+#types3 {
+	font-weight: bold;
+}
+
+#photos {
+	display: inline;
+	list-style-type: none;
+}
+
+
+#photos img{
+	width: 100%;
+}
+
+#photos .img-text{
+	text-align: center;
+	margin-top: -3rem;
+	width:30%;
+}
+.containment{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+#photos .img-text h6{
+	background-color:#FFF;
+	padding:15px;
+}
+
+#photos a{
+	color: black;
+	text-decoration: underline;
+}
+
+#footer{
+	width: 100%;
+	background-color: #333;
+	color: white;
+	padding-top: 5px;
+	padding-bottom: 15px;
+	margin-bottom: -5px;
+	text-align: center;
+}
+
+#footer i{
+	color: white;
+	font-size: 3.5rem;
+}
+
+#footer i:hover{
+	font-size: 375%;
+}
+
+
+
+#title{
+	margin-top: 175px;
+}
+
+#aboutheader{
+	margin-top: 175px;
+	font-weight: bold;
+	font-size: 40px;
+
+}
+
+#aboutheader2{
+	margin-top: 175px;
+	float: right;
+	font-weight: bold;
+	color: #EF682C;
+}
+
+#iaboutus{
+	font-size: 20px;
+}
+
+#footer2{
+	width: 100%;
+	background-color: #333;
+	color: white;
+	padding-top: 5px;
+	padding-bottom: 15px;
+	margin-top: 133px;
+	text-align: center;
+}
+
+#footer2 i{
+	color: white;
+	font-size: 3.5rem;
+}
+
+#footer2 i:hover{
+	font-size: 375%;
+}
+
+#background2 {
+	background-image: url("../shop.jpg");
+	width: 100%;
+	height: 100vh;
+	background-repeat: no-repeat;
+	background-size: 100%;
+	margin-top:-1%;
+	justify-content: center;
+	align-items: center;
+	display: flex;
+	color: #FFF;
+
+}
+
+#service{
+	font-size: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
